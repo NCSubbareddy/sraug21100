@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_srcustomappaug16th_servicecatalog" name="sn_dd_srcustomappaug16th_servicecatalog">8c945e61dbdb3300f28af78eaf9619a7</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-16 06:51:20</sys_created_on>
+        <sys_id>80945e61dbdb3300f28af78eaf9619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8c945e61dbdb3300f28af78eaf9619a7</sys_name>
+        <sys_package display_value="srcustomAppAUg16th" source="x_snc_srcustomappa">0e33d6eddb9b3300f28af78eaf9619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="srcustomAppAUg16th">0e33d6eddb9b3300f28af78eaf9619aa</sys_scope>
+        <sys_update_name>sys_embedded_help_role_80945e61dbdb3300f28af78eaf9619aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-16 06:51:20</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_snc_srcustomappa.finalsi01</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>finalsi01</name>
+        <script><![CDATA[var finalsi01 = Class.create();
+finalsi01.prototype = {
+    initialize: function() {
+    },
+
+    type: 'finalsi01'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-16 08:22:35</sys_created_on>
+        <sys_id>b269eaa5db1f3300f28af78eaf961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>finalsi01</sys_name>
+        <sys_package display_value="srcustomAppAUg16th" source="x_snc_srcustomappa">0e33d6eddb9b3300f28af78eaf9619aa</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="srcustomAppAUg16th">0e33d6eddb9b3300f28af78eaf9619aa</sys_scope>
+        <sys_update_name>sys_script_include_b269eaa5db1f3300f28af78eaf961927</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-16 08:22:35</sys_updated_on>
+    </sys_script_include>
+</record_update>

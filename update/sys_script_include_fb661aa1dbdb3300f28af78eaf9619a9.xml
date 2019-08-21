@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_snc_srcustomappa.scriptinclude342</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>scriptinclude342</name>
+        <script><![CDATA[var scriptinclude342 = Class.create();
+scriptinclude342.prototype = {
+    initialize: function() {
+        //addeed
+    },
+
+    type: 'scriptinclude342'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>subba.reddy</sys_created_by>
+        <sys_created_on>2019-08-16 06:59:30</sys_created_on>
+        <sys_id>fb661aa1dbdb3300f28af78eaf9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scriptinclude342</sys_name>
+        <sys_package display_value="srcustomAppAUg16th" source="x_snc_srcustomappa">0e33d6eddb9b3300f28af78eaf9619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="srcustomAppAUg16th">0e33d6eddb9b3300f28af78eaf9619aa</sys_scope>
+        <sys_update_name>sys_script_include_fb661aa1dbdb3300f28af78eaf9619a9</sys_update_name>
+        <sys_updated_by>subba.reddy</sys_updated_by>
+        <sys_updated_on>2019-08-16 06:59:30</sys_updated_on>
+    </sys_script_include>
+</record_update>

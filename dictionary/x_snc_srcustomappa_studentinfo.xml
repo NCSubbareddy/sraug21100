@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="StudentInfo" max_length="40" name="x_snc_srcustomappa_studentinfo" type="collection">
+        <element label="StudentMarks" max_length="40" name="studentmarks" type="integer"/>
+        <element label="StudentName" max_length="30" name="studentname" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="EmpDetails" max_length="40" name="x_snc_srcustomappa_empdetails" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="EmpJoingDate" max_length="40" name="empjoingdate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="EmpName" max_length="40" name="empname" type="string"/>
+        <element label="EmpSalary" max_length="40" name="empsalary" type="float"/>
+    </element>
+</database>
